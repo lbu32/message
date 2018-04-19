@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/home/schatzkammer/development/htw_devops/message/.metadata/.plugins/org.eclipse.jdt.core
+2702735630.index
